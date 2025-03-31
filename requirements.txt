@@ -1,0 +1,4 @@
+ttkbootstrap - for styling the GUI.
+qrcode - for generating QR codes.
+Pillow (PIL) - for working with images in Tkinter.
+tkinter - Tkinter is usually already part of the Python installation, but the library is required to use the GUI.
